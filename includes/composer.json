@@ -1,0 +1,11 @@
+{
+    "config": {
+        "platform": {
+            "php": "7.0"
+        }
+    },
+    "require": {
+        "paypal/paypal-checkout-sdk": "1.0.*",
+        "mpdf/mpdf": "^8.1"
+    }
+}
